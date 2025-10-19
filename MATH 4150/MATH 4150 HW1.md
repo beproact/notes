@@ -1,6 +1,6 @@
 #### 1
 ##### a
-Proof a
+Proof
 
 We need to show that $a|b$ implies $ac|bc$ and $ac|bc$ implies $a|b$.
 First we show $a|b$ implies $ac|bc$. Since $a|b$ we know that there exists $d\in \mathbb{Z}$ where $ad=b$. We can multiply both sides by $c$ to get $adc=bc$. We can rewrite this to be $(ac)d=bc$. Since $bc$ can be written as $ac$ times a number $ac|bc$.
