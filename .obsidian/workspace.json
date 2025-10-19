@@ -109,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MATH 4150/MATH 4150 HW1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for MATH 4150 HW1"
             }
           },
           {
@@ -155,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md",
+                "file": "MATH 4150/MATH 4150 HW1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of MATH 4150 HW1"
             }
           }
         ],
@@ -169,11 +170,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "github-sync:Sync with Remote": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -181,14 +182,11 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "github-sync:Sync with Remote": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c0da86b81c2af507",
+  "active": "ee16e0fde1185e40",
   "lastOpenFiles": [
-    "Untitled.md",
-    "MATH 4150/MATH 4150 HW1.md",
     "MATH 3406/HW4.md",
     "MATH 3406/HW3.md",
     "CS 2200/something something process memory.md",
@@ -197,6 +195,7 @@
     "MATH 3406/HW2.md",
     "CS 2200/BUl.md",
     "MATH 4150/MATH 4150 HW2.md",
+    "MATH 4150/MATH 4150 HW1.md",
     "CS 2200/Textbook Notes/Program Discontinuityies.md",
     "CS 2200/Data Paths.md",
     "CS 2200/Textbook Notes",
@@ -219,6 +218,7 @@
     "_archive/PHYS 3143/HW/Quantum Mechanics HW4.md",
     "CS 2200",
     "_archive/CS 3510/FPTAS for Knapsack.md",
+    "_archive/CS 3510/3 Dynamic Programming/Knapsack.md",
     "_archive/PHYS 3143/HW/sketch.jpg",
     "Pasted image 20250715182241.png",
     "_archive/CS 3510/4 NP Completeness",
