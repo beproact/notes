@@ -1,6 +1,7 @@
 #### 1
 ##### a
-Proof
+Proof waffles
+
 We need to show that $a|b$ implies $ac|bc$ and $ac|bc$ implies $a|b$.
 First we show $a|b$ implies $ac|bc$. Since $a|b$ we know that there exists $d\in \mathbb{Z}$ where $ad=b$. We can multiply both sides by $c$ to get $adc=bc$. We can rewrite this to be $(ac)d=bc$. Since $bc$ can be written as $ac$ times a number $ac|bc$.
 Next we show $ac|bc$ implies $a|b$. Since $ac|bc$ we know there exists $e\in \mathbb{Z}$ where $ace=bc$. We can divide by $c$ on both sides to get $ae=b$. Since $b$ can be written as $a$ time a number we know that $a|b$.
