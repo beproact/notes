@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS 2200/caching.md",
+                "file": "MATH 3406/STUDY.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "caching"
+              "title": "STUDY"
             }
           }
         ]
@@ -160,6 +160,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "github-sync:Sync with Remote": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -171,8 +173,9 @@
   },
   "active": "a12324aee8976809",
   "lastOpenFiles": [
-    "CS 2200/something something process memory.md",
     "CS 2200/caching.md",
+    "MATH 3406/STUDY.md",
+    "CS 2200/something something process memory.md",
     "Code/Haskell/Functions.md",
     "Code/Haskell/Lists.md",
     "Code/Haskell/GHC commands.md",
@@ -199,7 +202,6 @@
     "_archive/CS 3510/4 NP Completeness/Puzzles and Games.md",
     "_archive/CS 3510/4 NP Completeness/NP Completeness.md",
     "_archive/CS 3510/4 NP Completeness/NP Complete Graph Problems.md",
-    "_archive/CS 3510/2 Divide and Conquer/DFS.md",
     "_archive/PHYS 3143/HW",
     "_archive/MATH 3215/HW1",
     "_archive/CS 3510/HW",
